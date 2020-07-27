@@ -27,3 +27,11 @@
 测试样例：
 
 ![avatar](./pic/test.png)
+
+## 官方测试结果
+
+![avatar](./pic/result.png)
+
+## 代码说明文档
+
+说明文档.md
